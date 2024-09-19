@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097673257532",
+    "project_id": "freeearn-5755a",
+    "storage_bucket": "freeearn-5755a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097673257532:android:6e60918bedae8702ef4939",
+        "android_client_info": {
+          "package_name": "com.papercanary.freeearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzT9g6-E-WjEPZo2697x0A0JaokJKlzKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
