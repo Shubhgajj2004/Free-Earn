@@ -86,4 +86,5 @@ public class MainActivity extends AppCompatActivity {
         eCoins.setText(Integer.toString(userCoins));
     }
 
+
 }
